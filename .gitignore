@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local config (keep out of the public repo)
+.claude/
+
+# Logs / temp
+*.log
